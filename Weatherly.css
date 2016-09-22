@@ -1,0 +1,60 @@
+
+
+#paintsville{
+color: black
+}
+
+#weather1{
+    height: 50%; margin: 10px;
+    background-image: url("http://images.all-free-download.com/images/graphiclarge/natural_scenery_05_hd_picture_166109.jpg");
+    background-repeat: no-repeat;   
+}
+
+#weather2{
+    height: 50%; margin: 10px; /* Need to fix the no repeat*/
+    background-image: url("http://media-cache-ak0.pinimg.com/1200x/f2/28/9b/f2289b52bcb01096390d721b604fbf85.jpg");
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+#weather3{
+    height: 50%; margin: 10px;
+    background-image: url("https://www.altkia.com/wp-content/uploads/2016/08/%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%A1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#weather4{
+    height: 50%; margin: 10px;
+    background-image: url("http://cdn.paper4pc.com/images/snow-wallpaper-18.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#weather5{
+    height:50%; margin: 10px;
+    background-image: url("http://i.dailymail.co.uk/i/pix/2015/11/02/11/2E09681000000578-3299790-image-a-16_1446465095495.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#weather6{
+    height:50%; margin: 10px;
+    background-image: url("http://c1.thejournal.ie/media/2013/07/shutterstock_116298694-310x415.jpg");
+    background-repeat: no-repeat;
+    
+}
+.title{
+font-size:
+}
+
+
+.City{
+    font-size: 20;
+    position: center;
+    color: black;
+
+}
+
+
+
