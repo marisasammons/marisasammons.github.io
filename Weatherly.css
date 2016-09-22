@@ -3,7 +3,7 @@ body {
 }
 
 #weather1{
-    height: 50%; margin: 10px;
+    height: 500px; margin: 10px;
     background-image: url("http://images.all-free-download.com/images/graphiclarge/natural_scenery_05_hd_picture_166109.jpg");
     background-repeat: no-repeat;   
 }
