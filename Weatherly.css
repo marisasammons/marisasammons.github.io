@@ -1,7 +1,5 @@
-
-
-#paintsville{
-color: black
+body {
+    background: url(http://eskipaper.com/images/blurred-5.jpg) repeat-x;
 }
 
 #weather1{
@@ -36,25 +34,42 @@ color: black
     background-image: url("http://i.dailymail.co.uk/i/pix/2015/11/02/11/2E09681000000578-3299790-image-a-16_1446465095495.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
 }
+
 #weather6{
     height:50%; margin: 10px;
     background-image: url("http://c1.thejournal.ie/media/2013/07/shutterstock_116298694-310x415.jpg");
     background-repeat: no-repeat;
-    
-}
-.title{
-font-size:
 }
 
+.title{
+font: general;
+}
 
 .City{
     font-size: 20;
-    position: center;
-    color: black;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px white;
+    }
 
+.box{
+    font-size:40;
+    text-align: center;
+    color: black;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px white;
 }
 
+.type{
+    font-size: 18;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px white;
 
+}
 
